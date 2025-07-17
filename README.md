@@ -1,2 +1,41 @@
-# sitio-cafeteria
-Sitio web ficticio de una cafetería realizado con wordpress para práctica.
+# Proyecto: Sitio Web Ficticio de Cafetería
+
+Este proyecto es un sitio web simulado para una cafetería, desarrollado utilizando **WordPress** y el tema **Blocksy**. Mi objetivo principal fue aplicar mis habilidades en **CSS** para realizar personalizaciones avanzadas, especialmente enfocadas en lograr un **diseño responsivo y pulido para dispositivos móviles**.
+
+Sirve como una demostración práctica de mi capacidad para implementar y personalizar sitios con WordPress, y para construir interfaces de usuario atractivas y funcionales con CSS.
+
+---
+
+### Tecnologías y Herramientas Utilizadas:
+
+* WordPress
+* Tema Blocksy
+* Algunos bloques estan hechos en Kadence
+* **CSS3 (con código personalizado para diseño y responsividad)**
+
+---
+
+### Ver el Proyecto Online:
+
+Puedes ver el sitio web funcionando aquí: [https://skyblue-cat-143768.hostingersite.com/](https://skyblue-cat-143768.hostingersite.com/)
+
+---
+
+### Lo que aprendí y destaqué en este proyecto:
+
+* Implementación y personalización de sitios WordPress desde cero.
+* **Escritura y aplicación de código CSS personalizado para modificar y extender la apariencia de un tema preexistente.**
+* Desarrollo de un diseño responsivo robusto con un enfoque "mobile-first", asegurando una excelente experiencia en cualquier dispositivo.
+* Estructuración y gestión de contenido dentro del entorno de WordPress.
+
+---
+
+### Código CSS Personalizado:
+
+Podes revisar el código CSS que utilicé para las personalizaciones aquí: [Enlace a tu archivo CSS en GitHub](https://github.com/tu_nombre_de_usuario/nombre_de_tu_repositorio/blob/main/css/custom-styles.css) *(Asegúrate de reemplazar esta URL con la URL real de tu archivo CSS en GitHub)*
+
+---
+
+### Capturas de Pantalla (Opcional, pero muy recomendado):
+
+*(Si ya las subiste o planeas hacerlo, mantené esta sección.)*
