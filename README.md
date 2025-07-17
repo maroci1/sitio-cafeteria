@@ -10,7 +10,8 @@ Sirve como una demostración práctica de mi capacidad para implementar y person
 
 * WordPress
 * Tema Blocksy
-* Algunos bloques estan hechos en Kadence
+* Stackable (Plugin de bloques para Gutenberg)
+* Kadecen blocks (Plugin de bloques para Gutenberg)
 * **CSS3 (con código personalizado para diseño y responsividad)**
 
 ---
