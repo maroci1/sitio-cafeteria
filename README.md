@@ -32,10 +32,10 @@ Puedes ver el sitio web funcionando aquí: [https://skyblue-cat-143768.hostinger
 
 ### Código CSS Personalizado:
 
-Podes revisar el código CSS que utilicé para las personalizaciones aquí: [Enlace a tu archivo CSS en GitHub](https://github.com/tu_nombre_de_usuario/nombre_de_tu_repositorio/blob/main/css/custom-styles.css) *(Asegúrate de reemplazar esta URL con la URL real de tu archivo CSS en GitHub)*
+Podes revisar el código CSS que utilicé para las personalizaciones aquí: [Enlace a tu archivo CSS en GitHub](https://github.com/tu_nombre_de_usuario/nombre_de_tu_repositorio/blob/main/css/custom-styles.css) 
 
 ---
 
-### Capturas de Pantalla (Opcional, pero muy recomendado):
+### Capturas de Pantalla :
 
-*(Si ya las subiste o planeas hacerlo, mantené esta sección.)*
+
