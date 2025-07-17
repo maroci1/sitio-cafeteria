@@ -36,6 +36,8 @@ Podes revisar el código CSS que utilicé para las personalizaciones aquí: [css
 
 ---
 
-### Capturas de Pantalla :
+### Capturas de Pantalla:
+
+Puedes ver todas las capturas de pantalla del proyecto aquí: [Ver Capturas de Pantalla](https://github.com/maroci1/sitio-cafeteria/tree/main/images)
 
 
