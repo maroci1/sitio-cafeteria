@@ -32,7 +32,7 @@ Puedes ver el sitio web funcionando aquí: [https://skyblue-cat-143768.hostinger
 
 ### Código CSS Personalizado:
 
-Podes revisar el código CSS que utilicé para las personalizaciones aquí: [Enlace a tu archivo CSS en GitHub](https://github.com/tu_nombre_de_usuario/nombre_de_tu_repositorio/blob/main/css/custom-styles.css) 
+Podes revisar el código CSS que utilicé para las personalizaciones aquí: [css sitio cafeteria](https://github.com/tu_nombre_de_usuario/nombre_de_tu_repositorio/blob/main/css/custom-styles.css) 
 
 ---
 
