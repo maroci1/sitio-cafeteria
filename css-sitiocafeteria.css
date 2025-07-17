@@ -1,0 +1,216 @@
+
+.fluentform input,
+.fluentform textarea,
+.fluentform select {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+.fluentform textarea {
+  resize: none;
+}
+
+.ct-menu-link {
+  font-family: 'Figtree', sans-serif !important;
+}
+
+
+[data-vertical-spacing*="top"] {
+  padding-top: 0 !important;
+}
+
+[data-vertical-spacing*="bottom"] {
+  padding-bottom: 0 !important;
+}
+
+
+.contenedor-columnas-fijas-menucompleto {
+  display: flex;
+  gap: 20px; /* Opcional: separación entre columnas */
+}
+
+.columna-fija-menucompleto {
+  height: 600px;
+  flex: 1;
+  overflow: hidden; /* Evita que el contenido se desborde visualmente */
+  display: flex;
+  flex-direction: column;
+}
+
+
+.contenedor-columnas-fijas-inicio{
+	display: flex;
+  gap: 20px;
+}
+
+
+.columna-fija-inicio {
+  height: 600px;
+  flex: 1;
+  overflow: hidden; /* Evita que el contenido se desborde visualmente */
+  display: flex;
+  flex-direction: column;
+}
+
+
+.pila-columna-inicio {
+	height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* para que se distribuyan mejor */
+}
+
+
+.persona {
+  position: relative;
+  display: inline-block;
+}
+
+
+.persona img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/*nombre miembros parte escritorio*/
+.nombre {
+  position: absolute;
+  bottom: 50px; /* o top: 0 si lo querés arriba */
+  left: 0;
+  width: 100%;
+  padding: 8px 0;
+  background-color: rgba(255, 255, 255, 0.8); /* Blanco con transparencia */
+  color: #1a1a1a;
+  text-align: center;
+  font-weight: bold;
+  z-index: 2; /* opcional, por si hay otros elementos superpuestos */
+}
+
+
+/*nombres miembros parte mobile*/
+.nombre_movil{
+	position: absolute;
+  bottom: 0px; /* o top: 0 si lo querés arriba */
+  left: 0;
+  width: 100%;
+}
+
+
+/*inicio-menu parte mobile*/
+  .stk-row {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+	}
+	
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+/*fotos miembros parte mobile*/
+.kt-row-column-wrap{
+	display:flex;
+	flex-direction: row;
+	flex-wrap:nowrap;
+	gap:20px;
+}
+
+
+/*Reseñas mobile*/
+.stk-content-align {
+	display:flex !important;
+	flex-direction:column !important;
+	
+}
+
+
+/* Ocultar el contenedor móvil en pantallas a partir de 768px */
+@media (min-width: 768px) {
+    .inicio-movil { 
+        display: none !important;
+    }
+}
+
+
+@media (min-width:768px) and (max-width: 999px){
+	.contenedor-columnas-fijas-inicio.stk--hide-tablet {
+		display: flex !important;
+		visibility: visible !important;
+	}
+}
+
+
+
+
+
+@media screen and (min-width: 769px) { /* Estas reglas solo se aplican a pantallas grandes (escritorio y tablets) */
+    .stk-content-align {
+        flex-direction: row !important; /* Fuerza la dirección horizontal */
+        flex-wrap: wrap !important;     /* Permite que las tarjetas se envuelvan en múltiples filas si no caben en una */
+        align-items: flex-start !important; 
+	}
+	
+
+}
+
+
+@media screen and (min-width: 690px) and (max-width: 999px) {
+    [data-header*="type-1"] #offcanvas .ct-panel-inner {
+        background-color: #fde8e4; 
+			}
+	
+	 [data-header*="type-1"] #offcanvas .ct-panel-inner li {
+        justify-content: center; 
+		 align-items: center; 
+}
+
+    [data-header*="type-1"] #offcanvas .ct-panel-inner li a {
+        justify-content: center; 
+    }
+}
+
+@media (min-width: 1000px) { 
+    /* Oculta el párrafo de Kadence a partir de 1000px */
+    .kt-adv-heading183_46afe-69, 
+    .parrafo_contacto { 
+        display: none !important;
+    }
+}
+
+
+@media screen and (min-width: 690px) { 
+    .stk-content-align {
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+        align-items: flex-start !important;
+    }
+}
+
+@media screen and (max-width:999px) {
+	.stk-row.stk-inner-blocks.stk-block-content.stk-button-group {
+    justify-content: center !important	
+		
+	}
+}
+
+
+@media screen and (min-width: 650px) and (max-width: 999px) {
+    /* Centra las columnas dentro de cada "Disposición de la Fila" (Row Layout) */
+    .kt-row-column-wrap {
+        justify-content: center !important; /* Alinea los elementos hijos (las columnas) al centro horizontalmente */
+       
+}
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1024px) {
+		.kt-row-column-wrap{
+			display: none !important;
+		}
+	}
+
