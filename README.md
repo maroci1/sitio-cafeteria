@@ -18,7 +18,7 @@ Sirve como una demostración práctica de mi capacidad para implementar y person
 
 ### Ver el Proyecto Online:
 
-Puedes ver el sitio web funcionando aquí: [https://skyblue-cat-143768.hostingersite.com/](https://skyblue-cat-143768.hostingersite.com/)
+Podes ver el sitio web funcionando acá: [https://skyblue-cat-143768.hostingersite.com/](https://skyblue-cat-143768.hostingersite.com/)
 
 ---
 
@@ -33,7 +33,7 @@ Puedes ver el sitio web funcionando aquí: [https://skyblue-cat-143768.hostinger
 
 ### Código CSS Personalizado:
 
-Podes revisar el código CSS que utilicé para las personalizaciones aquí: [css sitio cafeteria](https://github.com/maroci1/sitio-cafeteria/blob/main/css-sitiocafeteria.css) 
+Podes revisar el código CSS que utilicé para las personalizaciones acá: [css sitio cafeteria](https://github.com/maroci1/sitio-cafeteria/blob/main/css-sitiocafeteria.css) 
 
 ---
 
